@@ -2,7 +2,7 @@
 
 I created this repository for developers who recently start learning ExoPlayer. This repository demonstrates the basic way how we can play audio/video files/URLs.
 
-`ExoPlayer` version : 2.17.1
+`ExoPlayer` version : 2.18.1
 
 ### RadioPlayerActivity
 This activity contains an example of how we can create basically player object and stream audio from URL.
@@ -25,21 +25,3 @@ If you wonder about how we can use ExoPlayer with Jetpack Compose, you can look 
 
 [Github Repository](https://github.com/yusufcakmak/ExoPlayerComposeSample)
 
-
-
---------
-
-
-    Copyright 2017 Yusuf Çakmak.
-
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
-
-       http://www.apache.org/licenses/LICENSE-2.0
-
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
